@@ -1,0 +1,11 @@
+C:\PROJECT\main\EventHandler\Events\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\PROJECT\main\EventHandler\Events\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\PROJECT\main\EventHandler\Events\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\PROJECT\main\EventHandler\Events\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\PROJECT\main\EventHandler\Events\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\PROJECT\main\EventHandler\Events\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\PROJECT\main\EventHandler\Events\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+C:\PROJECT\main\EventHandler\Events\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\PROJECT\main\EventHandler\Events\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\PROJECT\main\EventHandler\Events\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\PROJECT\main\EventHandler\Events\Events\obj\Debug\netcoreapp3.1\Events.pdb
